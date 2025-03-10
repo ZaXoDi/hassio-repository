@@ -25,6 +25,7 @@
     "http": {
       "enabled": "true",
       "doc_root": "/usr/share/snapweb"
+      "host": "HomeAssistant"
     },
     "tcp": {
       "enabled": "true"
